@@ -1,0 +1,8 @@
+/home/mark-titcomb/tutdev/tut-clinic-app/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/controllers/VisitController.java
+/home/mark-titcomb/tutdev/tut-clinic-app/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/bootstrap/DataLoader.java
+/home/mark-titcomb/tutdev/tut-clinic-app/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/controllers/IndexController.java
+/home/mark-titcomb/tutdev/tut-clinic-app/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/controllers/OwnerController.java
+/home/mark-titcomb/tutdev/tut-clinic-app/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/controllers/PetController.java
+/home/mark-titcomb/tutdev/tut-clinic-app/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/formatters/PetTypeFormatter.java
+/home/mark-titcomb/tutdev/tut-clinic-app/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/controllers/VetController.java
+/home/mark-titcomb/tutdev/tut-clinic-app/sfg-pet-clinic/pet-clinic-web/src/main/java/guru/springframework/sfgpetclinic/SfgPetClinicApplication.java
